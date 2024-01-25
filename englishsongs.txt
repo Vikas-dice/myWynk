@@ -1,2 +1,4 @@
 animal
 closer 
+not afraid
+
